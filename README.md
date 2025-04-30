@@ -15,7 +15,7 @@ This project demonstrates:
 
 ## 🌐 Live Site
 
-Check out the live version here: [https://bored-bot-api.netlify.app/](https://bored-bot-api.netlify.app/)
+Check out the live version here: [https://boredbot-intro-to-api.netlify.app](https://boredbot-intro-to-api.netlify.app)
 
 ## 🛠️ Technologies Used
 
