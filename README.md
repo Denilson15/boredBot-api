@@ -13,10 +13,6 @@ This project demonstrates:
 - Basic styling with CSS
 - Responsive design principles
 
-## 🌐 Live Site
-
-Check out the live version here: [https://boredbot-intro-to-api.netlify.app](https://boredbot-intro-to-api.netlify.app)
-
 ## 🛠️ Technologies Used
 
 - HTML5
